@@ -195,3 +195,30 @@ plot(head)
 # Corrected code:
 # *WRITE YOUR CODE HERE*
 
+
+
+
+# BONUS CHALLENGE (OPTIONAL) -----------------------------
+# Write code that:
+# - Creates two objects: confirmed_cases (number) and suspected_cases (number)
+# - Calculates the percentage of confirmed cases out of total cases
+# - Stores this in an object with a proper name
+# - Creates a formatted message like: "Confirmed cases represent X% of all cases"
+# - Make sure to use proper naming conventions, correct operators, and appropriate functions!
+
+
+
+
+
+# BONUS CHALLENGE 2 ----
+# From the built-in iris data, compute the mean Sepal.Length (no packages).
+# - To access a column, use iris$Sepal.Length
+# - Use mean() to compute the average
+# - Round to 2 decimals.
+# - Store the number in a well-named object (e.g., mean_sepal_length).
+# - Create a message like: "Mean Sepal.Length is X.YZ" and store it in sepal_msg.
+
+# Example structure:
+# mean_sepal_length <- mean(iris$Sepal.Length)
+# mean_sepal_length <- round(mean_sepal_length, 2)
+# sepal_msg <- paste("Mean Sepal.Length is", mean_sepal_length)
