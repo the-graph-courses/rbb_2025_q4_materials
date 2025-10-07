@@ -217,8 +217,3 @@ plot(head)
 # - Round to 2 decimals.
 # - Store the number in a well-named object (e.g., mean_sepal_length).
 # - Create a message like: "Mean Sepal.Length is X.YZ" and store it in sepal_msg.
-
-# Example structure:
-# mean_sepal_length <- mean(iris$Sepal.Length)
-# mean_sepal_length <- round(mean_sepal_length, 2)
-# sepal_msg <- paste("Mean Sepal.Length is", mean_sepal_length)
