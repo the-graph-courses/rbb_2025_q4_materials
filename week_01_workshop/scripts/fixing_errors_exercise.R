@@ -217,3 +217,11 @@ plot(head)
 # - Round to 2 decimals.
 # - Store the number in a well-named object (e.g., mean_sepal_length).
 # - Create a message like: "Mean Sepal.Length is X.YZ" and store it in sepal_msg.
+
+
+
+# Example structure using a different dataset
+# mean_height <- mean(trees$Height)
+# mean_height <- round(mean_height, 2)
+# height_msg <- paste("Mean Height is", mean_height)
+# height_msg
