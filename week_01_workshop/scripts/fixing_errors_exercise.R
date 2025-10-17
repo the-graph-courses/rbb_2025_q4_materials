@@ -201,7 +201,7 @@ plot(head)
 # BONUS CHALLENGE (OPTIONAL) -----------------------------
 # Write code that:
 # - Creates two objects: confirmed_cases (number) and suspected_cases (number)
-# - Calculates the percentage of confirmed cases out of total cases
+# - Calculates the percentage of confirmed cases out of total cases (confirmed + suspected)
 # - Stores this in an object with a proper name
 # - Creates a formatted message like: "Confirmed cases represent X% of all cases"
 # - Make sure to use proper naming conventions, correct operators, and appropriate functions!
