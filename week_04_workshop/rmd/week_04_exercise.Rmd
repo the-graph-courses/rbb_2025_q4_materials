@@ -168,35 +168,9 @@ If you finish your main task on time, you can tackle this optional challenge sec
 
 Your task for this challenge is to export the same data subsets created above into an **Excel workbook**, with each subset in a separate worksheet.
 
-Why is this useful? Excel is a widely-used and familiar tool for many professionals including public health officials. As a data analyst, you often need to present your findings in a format that is accessible and understandable to these individuals. Excel is such a tool.
+Why is this useful? Excel is a widely-used and familiar tool for many professionals including public health officials. 
 
 Moreover, Excel workbooks allow you to organize multiple related tables into separate sheets within a single file, enhancing the clarity and navigability of your output.
-
-We have not formally taught you how to export to Excel files yet, so we've provided a tutorial at the bottom of this document, and a link to the documentation for the package you will be using.
-
-## CSV vs Excel files
-
-Not sure about the difference between a CSV (.csv) and an Excel (.xls or .xlsx) file? Here is a quick summary:
-
-**CSV Files** (.csv):
-
--   CSV stands for Comma-Separated Values. These files are plain text files where each piece of data is separated by a comma.
--   Here are some of their main characteristics:
-    -   **Simplicity**: CSV files can be opened with any text editor, making them easy to view and manipulate.
-    -   **Compatibility**: They are widely supported across different platforms and programming languages. You can import and export CSV files in most data processing software, including Microsoft Excel, Google Sheets, and any database management system.
-    -   **No Formatting**: CSV files do not support any text formatting or styles. This means they can't store information such as font styles, colors, or sizes.
-    -   **No Multiple Sheets**: Unlike Excel files, CSV files can't contain multiple sheets. Each CSV file holds a single table of data.
-
-**Excel Files** (.xls or .xlsx):
-
--   Excel files are Microsoft's proprietary binary format for storing data in workbooks, which can contain one or more worksheets.
--   Some key features of Excel files include:
-    -   **Multiple Sheets**: Excel workbooks can contain multiple sheets, allowing you to organize related data sets within a single file.
-    -   **Rich Formatting**: You can format text in Excel in a variety of ways, from changing the font, color, and size to more advanced styling options like conditional formatting. These formats can be set from within R itself, as you will see below.
-
-Here is a short video that explains some of this: <https://youtu.be/hlbRgI45_90>
-
-## Challenge Instructions
 
 Now, here are the step-by-step instructions for the challenge assignment:
 
